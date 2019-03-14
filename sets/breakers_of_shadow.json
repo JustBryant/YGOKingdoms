@@ -296,12 +296,10 @@
     {
       "card_name": "Dinomist Rex",
       "set_number": "BOSH-EN029",
-      "rarities": [
-        
+      "rarities": [ 
         "Super Rare"
       ],
       "count": {
-        
         "Super Rare": 1
       }
     },
@@ -319,11 +317,9 @@
       "card_name": "Shiranui Spectralsword",
       "set_number": "BOSH-EN031",
       "rarities": [
-        
-        "Ultra Rare"
+         "Ultra Rare"
       ],
       "count": {
-        
         "Ultra Rare": 1
       }
     },
@@ -441,11 +437,9 @@
       "card_name": "Odd-Eyes Gravity Dragon",
       "set_number": "BOSH-EN043",
       "rarities": [
-        
         "Ultra Rare"
       ],
       "count": {
-        
         "Ultra Rare": 1
       }
     },
@@ -483,11 +477,9 @@
       "card_name": "Enlightenment Paladin",
       "set_number": "BOSH-EN047",
       "rarities": [
-        
         "Ultra Rare"
       ],
       "count": {
-        
         "Ultra Rare": 1
       }
     },
@@ -495,7 +487,6 @@
       "card_name": "Superheavy Samurai Beast Kyubi",
       "set_number": "BOSH-EN048",
       "rarities": [
-        
         "Rare"
       ],
       "count": {
@@ -506,11 +497,9 @@
       "card_name": "Hi-Speedroid Hagoita",
       "set_number": "BOSH-EN049",
       "rarities": [
-        
         "Rare"
       ],
       "count": {
-        
         "Rare": 1
       }
     },
@@ -538,11 +527,9 @@
       "card_name": "Buster Dragon",
       "set_number": "BOSH-EN052",
       "rarities": [
-        
         "Ultra Rare"
       ],
       "count": {
-        
         "Ultra Rare": 1
       }
     },
@@ -560,11 +547,9 @@
       "card_name": "Shiranui Shogunsaga",
       "set_number": "BOSH-EN054",
       "rarities": [
-        
         "Ultra Rare"
       ],
       "count": {
-        
         "Ultra Rare": 1
       }
     },
@@ -765,7 +750,7 @@
         "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
@@ -782,11 +767,9 @@
       "card_name": "Quaking Mirror Force",
       "set_number": "BOSH-EN076",
       "rarities": [
-        
         "Ultra Rare"
       ],
       "count": {
-        
         "Ultra Rare": 1
       }
     },
