@@ -31,10 +31,10 @@
       "card_name": "Link Infra-Flier",
       "set_number": "CIBR-EN003",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -51,10 +51,10 @@
       "card_name": "Dark Angel",
       "set_number": "CIBR-EN005",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -71,11 +71,9 @@
       "card_name": "Gateway Dragon",
       "set_number": "CIBR-EN007",
       "rarities": [
-        "Secret Rare",
         "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1,
         "Super Rare": 1
       }
     },
@@ -103,52 +101,50 @@
       "card_name": "Autorokket Dragon",
       "set_number": "CIBR-EN010",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Magnarokket Dragon",
       "set_number": "CIBR-EN011",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Altergeist Marionetter",
       "set_number": "CIBR-EN012",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Ultra Rare""
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Altergeist Silquitous",
       "set_number": "CIBR-EN013",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Altergeist Meluseek",
       "set_number": "CIBR-EN014",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -235,11 +231,9 @@
       "card_name": "Metaphys Ragnarok",
       "set_number": "CIBR-EN023",
       "rarities": [
-        "Secret Rare",
         "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1,
         "Super Rare": 1
       }
     },
@@ -257,34 +251,30 @@
       "card_name": "Metaphys Nephthys",
       "set_number": "CIBR-EN025",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Metaphys Tyrant Dragon",
       "set_number": "CIBR-EN026",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Metaphys Executor",
       "set_number": "CIBR-EN027",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Super Rare": 1
       }
     },
     {
@@ -301,20 +291,20 @@
       "card_name": "Fire King Avatar Arvata",
       "set_number": "CIBR-EN029",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Mecha Phantom Beast Raiten",
       "set_number": "CIBR-EN030",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -401,12 +391,10 @@
       "card_name": "Elemental Grace Doriado",
       "set_number": "CIBR-EN039",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -433,27 +421,19 @@
       "card_name": "Borreload Dragon",
       "set_number": "CIBR-EN042",
       "rarities": [
-        "Secret Rare",
-        "Holographic Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Holographic Rare": 1,
-        "Ultimate Rare": 1,
-        "Ultra Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Link Bumper",
       "set_number": "CIBR-EN043",
       "rarities": [
-        "Secret Rare",
         "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1,
         "Super Rare": 1
       }
     },
@@ -461,13 +441,9 @@
       "card_name": "Trickstar Black Catbat",
       "set_number": "CIBR-EN044",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
@@ -475,13 +451,9 @@
       "card_name": "Gouki Thunder Ogre",
       "set_number": "CIBR-EN045",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
@@ -489,25 +461,19 @@
       "card_name": "Twin Triangle Dragon",
       "set_number": "CIBR-EN046",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Altergeist Primebanshee",
       "set_number": "CIBR-EN047",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
@@ -515,29 +481,27 @@
       "card_name": "X-Krawler Synaphysis",
       "set_number": "CIBR-EN048",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "X-Krawler Neurogos",
       "set_number": "CIBR-EN049",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "X-Krawler Qualiark",
       "set_number": "CIBR-EN050",
       "rarities": [
-        "Secret Rare",
-        "Ultimate Rare",
-        "Ultra Rare"
+        "Super Rare"
       ],
       "count": {
         "Secret Rare": 1,
@@ -549,32 +513,30 @@
       "card_name": "Akashic Magician",
       "set_number": "CIBR-EN051",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Mistar Boy",
       "set_number": "CIBR-EN052",
       "rarities": [
-        "Rare"
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Security Block",
       "set_number": "CIBR-EN053",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -591,20 +553,20 @@
       "card_name": "Squib Draw",
       "set_number": "CIBR-EN055",
       "rarities": [
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Quick Launch",
       "set_number": "CIBR-EN056",
       "rarities": [
-        "Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -641,10 +603,10 @@
       "card_name": "Asymmetaphys",
       "set_number": "CIBR-EN060",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
@@ -661,22 +623,20 @@
       "card_name": "Arrivalrivals",
       "set_number": "CIBR-EN062",
       "rarities": [
-        "Common"
+        "Ultra Rare"
       ],
       "count": {
-        "Common": 1
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Overdone Burial",
       "set_number": "CIBR-EN063",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
@@ -713,10 +673,10 @@
       "card_name": "Cyberse Beacon",
       "set_number": "CIBR-EN067",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -743,30 +703,30 @@
       "card_name": "Altergeist Camouflage",
       "set_number": "CIBR-EN070",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Altergeist Protocol",
       "set_number": "CIBR-EN071",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Personal Spoofing",
       "set_number": "CIBR-EN072",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -783,20 +743,20 @@
       "card_name": "World Legacy Trap Globe",
       "set_number": "CIBR-EN074",
       "rarities": [
-        "Common"
+        "Super Rare"
       ],
       "count": {
-        "Common": 1
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Metaphys Dimension",
       "set_number": "CIBR-EN075",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -813,32 +773,30 @@
       "card_name": "Evenly Matched",
       "set_number": "CIBR-EN077",
       "rarities": [
-        "Secret Rare",
-        "Super Rare"
+        "Secret Rare"
       ],
       "count": {
-        "Secret Rare": 1,
-        "Super Rare": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Fuse Line",
       "set_number": "CIBR-EN078",
       "rarities": [
-        "Common"
+        "Secret Rare"
       ],
       "count": {
-        "Common": 1
+        "Secret Rare": 1
       }
     },
     {
       "card_name": "Broken Line",
       "set_number": "CIBR-EN079",
       "rarities": [
-        "Rare"
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Ultra Rare": 1
       }
     },
     {
