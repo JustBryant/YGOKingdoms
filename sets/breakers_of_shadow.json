@@ -11,22 +11,24 @@
       "card_name": "Tuning Magician",
       "set_number": "BOSH-EN001",
       "rarities": [
+        "Secret Rare",
         "Super Rare"
       ],
       "count": {
-         "Super Rare": 1
+        "Secret Rare": 1,
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Timebreaker Magician",
       "set_number": "BOSH-EN002",
       "rarities": [
-        "Rare"
-        
+        "Secret Rare",
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
-        
+        "Secret Rare": 1,
+        "Super Rare": 1
       }
     },
     {
@@ -43,10 +45,10 @@
       "card_name": "Performapal Guitartle",
       "set_number": "BOSH-EN004",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -73,10 +75,10 @@
       "card_name": "Performapal Trump Girl",
       "set_number": "BOSH-EN007",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -103,20 +105,20 @@
       "card_name": "Superheavy Samurai General Jade",
       "set_number": "BOSH-EN010",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Superheavy Samurai General Coral",
       "set_number": "BOSH-EN011",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -183,22 +185,24 @@
       "card_name": "Buster Blader, the Destruction Swordmaster",
       "set_number": "BOSH-EN018",
       "rarities": [
-        "Ultra Rare",
-        
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Ultra Rare": 1,
-        
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Buster Whelp of the Destruction Swordsman",
       "set_number": "BOSH-EN019",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -235,12 +239,12 @@
       "card_name": "Master Pendulum, the Dracoslayer",
       "set_number": "BOSH-EN023",
       "rarities": [
+        "Secret Rare",
         "Super Rare"
-        
       ],
       "count": {
+        "Secret Rare": 1,
         "Super Rare": 1
-        
       }
     },
     {
@@ -297,11 +301,11 @@
       "card_name": "Dinomist Rex",
       "set_number": "BOSH-EN029",
       "rarities": [
-        
+        "Secret Rare",
         "Super Rare"
       ],
       "count": {
-        
+        "Secret Rare": 1,
         "Super Rare": 1
       }
     },
@@ -309,22 +313,22 @@
       "card_name": "Majespecter Toad - Ogama",
       "set_number": "BOSH-EN030",
       "rarities": [
-        "Super Rare"
+        "Common"
       ],
       "count": {
-        "Super Rare": 1
+        "Common": 1
       }
     },
     {
       "card_name": "Shiranui Spectralsword",
       "set_number": "BOSH-EN031",
       "rarities": [
-        
-        "Ultra Rare"
+        "Secret Rare",
+        "Super Rare"
       ],
       "count": {
-        
-        "Ultra Rare": 1
+        "Secret Rare": 1,
+        "Super Rare": 1
       }
     },
     {
@@ -341,10 +345,10 @@
       "card_name": "Shiranui Spiritmaster",
       "set_number": "BOSH-EN033",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -371,10 +375,10 @@
       "card_name": "Guiding Ariadne",
       "set_number": "BOSH-EN036",
       "rarities": [
-        "Super Rare"
+        "Common"
       ],
       "count": {
-        "Super Rare": 1
+        "Common": 1
       }
     },
     {
@@ -441,11 +445,13 @@
       "card_name": "Odd-Eyes Gravity Dragon",
       "set_number": "BOSH-EN043",
       "rarities": [
-        
+        "Secret Rare",
+        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
@@ -463,31 +469,43 @@
       "card_name": "Buster Blader, the Dragon Destroyer Swordsman",
       "set_number": "BOSH-EN045",
       "rarities": [
-        "Secret Rare"
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Secret Rare": 1
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Dinoster Power, the Mighty Dracoslayer",
       "set_number": "BOSH-EN046",
       "rarities": [
-        "Rare"
+        "Secret Rare",
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
       "card_name": "Enlightenment Paladin",
       "set_number": "BOSH-EN047",
       "rarities": [
-        
+        "Secret Rare",
+        "Holographic Rare",
+        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        
+        "Secret Rare": 1,
+        "Holographic Rare": 1,
+        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
@@ -495,23 +513,24 @@
       "card_name": "Superheavy Samurai Beast Kyubi",
       "set_number": "BOSH-EN048",
       "rarities": [
-        
-        "Rare"
+        "Secret Rare",
+        "Super Rare"
       ],
       "count": {
-        "Rare": 1
+        "Secret Rare": 1,
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Hi-Speedroid Hagoita",
       "set_number": "BOSH-EN049",
       "rarities": [
-        
-        "Rare"
+        "Secret Rare",
+        "Super Rare"
       ],
       "count": {
-        
-        "Rare": 1
+        "Secret Rare": 1,
+        "Super Rare": 1
       }
     },
     {
@@ -538,33 +557,35 @@
       "card_name": "Buster Dragon",
       "set_number": "BOSH-EN052",
       "rarities": [
-        
-        "Ultra Rare"
+        "Secret Rare",
+        "Super Rare"
       ],
       "count": {
-        
-        "Ultra Rare": 1
+        "Secret Rare": 1,
+        "Super Rare": 1
       }
     },
     {
       "card_name": "Shiranui Samuraisaga",
       "set_number": "BOSH-EN053",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
       "card_name": "Shiranui Shogunsaga",
       "set_number": "BOSH-EN054",
       "rarities": [
-        
+        "Secret Rare",
+        "Ultimate Rare",
         "Ultra Rare"
       ],
       "count": {
-        
+        "Secret Rare": 1,
+        "Ultimate Rare": 1,
         "Ultra Rare": 1
       }
     },
@@ -572,10 +593,10 @@
       "card_name": "Aegaion the Sea Castrum",
       "set_number": "BOSH-EN055",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -592,10 +613,10 @@
       "card_name": "Pendulum Storm",
       "set_number": "BOSH-EN057",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -612,10 +633,10 @@
       "card_name": "Destruction Swordsman Fusion",
       "set_number": "BOSH-EN059",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -652,10 +673,10 @@
       "card_name": "Dinomist Charge",
       "set_number": "BOSH-EN063",
       "rarities": [
-        "Common"
+        "Rare"
       ],
       "count": {
-        "Common": 1
+        "Rare": 1
       }
     },
     {
@@ -692,10 +713,10 @@
       "card_name": "Twin Twisters",
       "set_number": "BOSH-EN067",
       "rarities": [
-        "Super Rare"
+        "Rare"
       ],
       "count": {
-        "Super Rare": 1
+        "Rare": 1
       }
     },
     {
@@ -732,10 +753,10 @@
       "card_name": "Reject Reborn",
       "set_number": "BOSH-EN071",
       "rarities": [
-        "Rare"
+        "Common"
       ],
       "count": {
-        "Rare": 1
+        "Common": 1
       }
     },
     {
@@ -762,7 +783,7 @@
       "card_name": "Majespecter Supercell",
       "set_number": "BOSH-EN074",
       "rarities": [
-        "Super Rare"
+        "Common"
       ],
       "count": {
         "Common": 1
@@ -782,12 +803,12 @@
       "card_name": "Quaking Mirror Force",
       "set_number": "BOSH-EN076",
       "rarities": [
-        
-        "Ultra Rare"
+        "Secret Rare",
+        "Super Rare"
       ],
       "count": {
-        
-        "Ultra Rare": 1
+        "Secret Rare": 1,
+        "Super Rare": 1
       }
     },
     {
@@ -814,10 +835,12 @@
       "card_name": "Solemn Strike",
       "set_number": "BOSH-EN079",
       "rarities": [
-        "Secret Rare"
+        "Secret Rare",
+        "Super Rare"
       ],
       "count": {
-        "Secret Rare": 1
+        "Secret Rare": 1,
+        "Super Rare": 1
       }
     },
     {
@@ -829,197 +852,6 @@
       "count": {
         "Normal Rare": 1
       }
-    },
-    {
-       "card_name": "Ultimate Providence",
-       "set_number": "BOSH-EN081",
-       "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-      }
-    },
-    {
-       "card_name": "Kozmo Tincan",
-       "set_number": "BOSH-EN082",
-       "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-      }
-    },
-    {
-       "card_name": "Kozmo Soartroopers",
-       "set_number": "BOSH-EN083",
-       "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-      }
-    },
-    {
-       "card_name": "Kozmo Delta Shuttle",
-       "set_number": "BOSH-EN084",
-       "rarities": [
-          "Common"
-        ],
-        "count": {
-          "Common": 1
-      }
-    },
-    {
-       "card_name": "Kozmo Dark Eclipser",
-       "set_number": "BOSH-EN085",
-       "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-      }
-    },
-    {
-       "card_name": "Kozmojo",
-       "set_number": "BOSH-EN086",
-       "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-      }
-    },
-    {
-       "card_name": "Gadarla, the Mystery Dust Kaiju",
-       "set_number": "BOSH-EN087",
-       "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-      }
-    },
-    {
-       "card_name": "Jizukiru, the Star Destroying Kaiju",
-       "set_number": "BOSH-EN088",
-       "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-      }
-    },
-    {
-       "card_name": "Interrupted Kaiju Slumber",
-       "set_number": "BOSH-EN089",
-       "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-      }
-    },
-    {
-       "card_name": "Performapal Pendulum Sorcerer",
-       "set_number": "BOSH-EN090",
-       "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare":1
-      }
-    },
-    {
-       "card_name": "Fiendish Rhino Warrior",
-       "set_number": "BOSH-EN091",
-       "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-      }
-    },
-    {
-       "card_name": "Neptabyss, the Atlantean Prince",
-       "set_number": "BOSH-EN092",
-       "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-      }
-    },
-    {
-       "card_name": "Chimeratech Rampage Dragon",
-       "set_number": "BOSH-EN093",
-       "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-      }
-    },
-    {
-       "card_name": "Cyber Dragon Infinity",
-       "set_number": "BOSH-EN094",
-       "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-      }
-    },
-    {
-       "card_name": "Red-Eyes Retro Dragon",
-       "set_number": "BOSH-EN095",
-       "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-      }
-    },
-    {
-       "card_name": "Dharma-Eye Magician",
-       "set_number": "BOSH-EN096",
-       "rarities": [
-          "Super Rare"
-        ],
-        "count": {
-          "Super Rare": 1
-      }
-    },
-    {
-       "card_name": "Black Luster Soldier - Sacred Soldier",
-       "set_number": "BOSH-EN097",
-       "rarities": [
-          "Ultra Rare"
-        ],
-        "count": {
-          "Ultra Rare": 1
-      }
-    },
-    {
-       "card_name": "Arisen Gaia the Fierce Knight",
-       "set_number": "BOSH-EN098",
-       "rarities": [
-          "Rare"
-        ],
-        "count": {
-          "Rare": 1
-      }
-    },
-    {
-       "card_name": "Traptrix Rafflesia",
-       "set_number": "BOSH-EN099",
-       "rarities": [
-          "Secret Rare"
-        ],
-        "count": {
-          "Secret Rare": 1
-      }
     }
-    
   ]
 }
