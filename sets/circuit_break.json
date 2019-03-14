@@ -806,6 +806,186 @@
       "count": {
         "Normal Rare": 1
       }
-    }
+    },
+    {
+      "card_name": "Samurai Destroyer",
+      "set_number": "CIBR-EN081",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    }, 
+    {
+      "card_name": "Vendread Chimera",
+      "set_number": "CIBR-EN082",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    }, 
+    {
+      "card_name": "Vendread Striges",
+      "set_number": "CIBR-EN083",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }, 
+    {
+      "card_name": "Vendread Nights",
+      "set_number": "CIBR-EN084",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }, 
+    {
+      "card_name": "Vendread Reunion",
+      "set_number": "CIBR-EN085",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    }, 
+    {
+      "card_name": "F.A. Whip Crosser",
+      "set_number": "CIBR-EN086",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    },
+    {
+      "card_name": "F.A. Turbo Charger",
+      "set_number": "CIBR-EN087",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }, 
+    {
+      "card_name": "F.A. Off-Road Grand Prix",
+      "set_number": "CIBR-EN087",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }, 
+    {
+      "card_name": "Lunalight Crimson Fox",
+      "set_number": "CIBR-EN090",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }, 
+    {
+      "card_name": "Lunalight Kaleido Chick",
+      "set_number": "CIBR-EN091",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }, 
+    {
+      "card_name": "Lyrilusc - Recital Starling",
+      "set_number": "CIBR-EN092",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }, 
+    {
+      "card_name": "Amazoness Spy",
+      "set_number": "CIBR-EN093",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }, 
+    {
+      "card_name": "Amazoness Pet Liger",
+      "set_number": "CIBR-EN094",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }, 
+    {
+      "card_name": "Amazoness Empress",
+      "set_number": "CIBR-EN095",
+      "rarities": [
+        "Common"
+      ],
+      "count": {
+        "Common": 1
+      }
+    }, 
+    {
+      "card_name": "Quiet Life",
+      "set_number": "CIBR-EN096",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }, 
+    {
+      "card_name": "Number 41: Bagooska the Terribly Tired Tapir",
+      "set_number": "CIBR-EN097",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }, 
+    {
+      "card_name": "Subterror Behemoth Fiendess",
+      "set_number": "CIBR-EN098",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }, 
+    {
+      "card_name": "SPYRAL Double Helix",
+      "set_number": "CIBR-EN099",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    } 
   ]
 }
