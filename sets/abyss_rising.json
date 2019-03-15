@@ -437,12 +437,12 @@
       "card_name": "Heroic Champion - Gandiva",
       "set_number": "ABYR-EN042",
       "rarities": [
-        "Ultra Rare",
-        "Ultimate Rare"
+        "Ultimate Rare",
+        "UltraRare"
       ],
       "count": {
-        "Ultra Rare": 1,
-        "Ultimate Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
@@ -505,12 +505,12 @@
       "card_name": "Madolche Queen Tiaramisu",
       "set_number": "ABYR-EN048",
       "rarities": [
-        "Ultra Rare",
-        "Ultimate Rare"
+        "Ultimate Rare",
+        "Ultra Rare"
       ],
       "count": {
-        "Ultra Rare": 1,
-        "Ultimate Rare": 1
+        "Ultimate Rare": 1,
+        "Ultra Rare": 1
       }
     },
     {
