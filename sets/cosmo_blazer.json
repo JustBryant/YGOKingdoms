@@ -943,11 +943,91 @@
       "card_name": "Ignition Beast Volcannon
       "set_number": "CBLZ-EN091",
       "rarities": [
-        "Secret Rare"
+        "Common"
       ],
       "count": {
-        "Secret Rare": 1
+        "Common": 1
       }
     },
+    {
+      "card_name": "Noble Knight Joan",
+      "set_number": "CBLZ-EN092",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Crimson Blader",
+      "set_number": "CBLZ-EN093",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Infernity Archer",
+      "set_number": "CBLZ-EN094",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Gladius the Midnight Sun",
+      "set_number": "CBLZ-EN095",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Damascus the Polar Night",
+      "set_number": "CBLZ-EN096",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Brotherhood of the Fire Fist - Horse Prince",
+      "set_number": "CBLZ-EN092",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    },
+    {
+      "card_name": "Brotherhood of the Fire Fist - Spirit",
+      "set_number": "CBLZ-EN098",
+      "rarities": [
+        "Rare"
+      ],
+      "count": {
+        "Rare": 1
+      }
+    },
+    {
+      "card_name": "Brotherhood of the Fire Fist - Lion Emperor",
+      "set_number": "CBLZ-EN099",
+      "rarities": [
+        "Super Rare"
+      ],
+      "count": {
+        "Super Rare": 1
+      }
+    }
   ]
 }
