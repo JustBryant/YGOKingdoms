@@ -303,7 +303,7 @@
       "card_name": "Naturia Bamboo Shoot",
       "set_number": "DREV-EN029",
       "rarities": [
-        "Ultra Rare".
+        "Ultra Rare",
         "Ultimate Rare"
       ],
       "count": {
@@ -423,7 +423,7 @@
         "Ultimate Rare"
       ],
       "count": {
-        "Ultra Rare": 1
+        "Ultra Rare": 1,
         "Ultimate Rare": 1
       }
     },
